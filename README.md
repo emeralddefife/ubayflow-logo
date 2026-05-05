@@ -1,3 +1,3 @@
 # ubayflow-logo
 uploading ubayflow logo
-delete file
+git commit -m "Delete ubayflow-logo.png"
